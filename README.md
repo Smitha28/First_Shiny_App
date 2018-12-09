@@ -12,4 +12,4 @@ You can read more detailed information on where I got the dataset and how I clea
 If you run into any problems, I'd be happy to help! 
 >>>shiny::runGitHub('Shiny_App', 'Smitha28')
 
-P.S. Working on getting it published on ShinyApps.io. Will keep posted here if I eventually do it! 
+P.S. For those who are beginners to Shiny & R/don't have RStudio installed yet, I am working on getting it published on ShinyApps.io. Will keep posted here if I eventually do it! 
